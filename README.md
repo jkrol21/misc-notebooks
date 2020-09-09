@@ -1,2 +1,2 @@
-# misc-notebooks
+# Collection of some small projects
  
